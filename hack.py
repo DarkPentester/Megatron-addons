@@ -1,9 +1,9 @@
 # heartless - UserBot
-# Copyright (C) 2020 LoopXS/Megatron
+# Copyright (C) 2020 DarkPentester/Megatron
 #
-# This file is a part of < https://github.com/LoopXS/Megatron >
+# This file is a part of < https://github.com/DarkPentester/Megatron >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/LoopXS/Megatron/blob/main/LICENSE/>.
+# <https://www.github.com/DarkPentester/Megatron/blob/main/LICENSE/>.
 
 """
 ✘ Commands Available
